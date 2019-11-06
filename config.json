@@ -1,0 +1,15 @@
+{
+    "database":{
+        "driver":"mysql",
+        "name":"phonebook",
+        "user":"root",
+        "password":"root"
+    },
+    "tcp":{
+        "host":"127.0.0.1",
+        "port":"33060"
+    },
+    "mode":{
+        "name":"production"
+    }
+}
